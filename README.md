@@ -15,16 +15,13 @@ I am always ready to take on challenges and eager to contribute to a company’s
 
 ---
 
-## 📂 Projects  
-
-### 🔹 Independent Projects  
-- [**Automobile Rental **](https://github.com/atifa9/car-rental-website)  
+## 📂 Projects   
+- [**Automobile Rentals**](https://github.com/atifa9/car-rental-website)  
   A website for booking and managing car rentals, built with HTML and CSS.  
 
 - [**Legally Hers**](https://github.com/atifa9/Legally-Hers)  
   A mobile-first app providing women with access to legal rights information and AI-powered assistance.  
 
-### 🔹 Collaborative Projects  
 - [**GENETRACK – Hereditary Disease Analysis**](https://github.com/anshikawasthi/GENETRACK-Hereditary-Disease-Analysis)  
   A platform for hereditary disease analysis that provides personalized health recommendations, genetic test guidance, and educational resources.  
 
